@@ -59,4 +59,4 @@ text_vec = TextVectorization(
     standardize='lower_and_strip_punctuation',
     output_mode='int',
     output_sequence_length=avg_words_len    # 16 words per sequence
-)```
+)
